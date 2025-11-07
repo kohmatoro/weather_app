@@ -1,0 +1,13 @@
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #fafafa;
+  color: #222;
+}
+a {
+  text-decoration: none;
+  color: #0077cc;
+}
+a.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
